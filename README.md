@@ -1,5 +1,7 @@
 ### Hi there 👋
-From failed doctor ➡️ industrial engineer ➡️ computer scientist. Life can be strange, so better enjoy it. I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
+From failed doctor ➡️ industrial engineer ➡️ computer scientist. \
+Life can be strange, so better enjoy it. \
+I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
 
 # open source ⭐️
