@@ -1,23 +1,28 @@
 ### Hi there 👋
+From failed doctor ➡️ industrial engineer ➡️ computer scientist. Life can be strange, so better enjoy it. I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
+
 
 # open source ⭐️
-👨🏽‍💻 employees
-- [Rubrix](https://www.rubrix.ml/)
-- [Pandora Intelligence](https://www.pandoraintelligence.com/) 
-    - [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts)
-    - [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers)
-    - [classy-classification](https://github.com/Pandora-Intelligence/classy-classification)
-    - [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference)
-🫱🏾‍🫲🏼 contributions
-- [spaCy](https://github.com/explosion/spaCy)
-- [streamlit-url-fragment](https://github.com/ktosiek/streamlit-url-fragment)
-- [allennlp-models](https://github.com/allenai/allennlp-models)
-- [mutate](https://github.com/infinitylogesh/mutate)
-- [rebel](https://github.com/Babelscape/rebel)
+## employees 👨🏽‍💻
+- [Rubrix](https://www.rubrix.ml/)(current) - data annotation and monitoring for enterprise NLP
+- [Pandora Intelligence](https://www.pandoraintelligence.com/) - an independent intelligence company, specialized in security risks
+    - [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
+    - [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
+    - [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
+    - [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
+## contributions 🫱🏾‍🫲🏼 
+- [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe
+- [streamlit-url-fragment](https://github.com/ktosiek/streamlit-url-fragment) - resolved Python versioning issues
+- [allennlp-models](https://github.com/allenai/allennlp-models) - added a batch processing functionality
+- [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues
+- [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
 
 # blogs 📖
-- [few-shot NER with Rubrix](https://www.rubrix.ml/blog/concise-concepts-rubrix)
+- [few-shot NER with Rubrix](https://www.rubrix.ml/blog/concise-concepts-rubrix) - using concise-concepts and Rubrix for training a NER model
 
+# volunteering 🌍
+- [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
+- [510 red-cross](https://www.510.global/) - occasional projects to improve humanitarian aid with data 
 <!--
 **davidberenstein1957/davidberenstein1957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
