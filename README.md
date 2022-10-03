@@ -13,7 +13,10 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
     - [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
     - [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
 ## contributions 🫱🏾‍🫲🏼 
-- [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe
+- [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe 
+    - [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight) - added a batch processing functionality
+    - [spacy-fishing](https://github.com/Lucaterre/spacyfishing) - added a batch processing functionality + bug fixes
+    - [spacy-opentapioca](https://github.com/UB-Mannheim/spacyopentapioca) - added a batch processing functionality
 - [streamlit-url-fragment](https://github.com/ktosiek/streamlit-url-fragment) - resolved Python versioning issues
 - [allennlp-models](https://github.com/allenai/allennlp-models) - added a batch processing functionality
 - [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues
