@@ -6,7 +6,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # open source ⭐️
 ## employees 👨🏽‍💻
-- [Rubrix](https://www.rubrix.ml/)(current) - data annotation and monitoring for enterprise NLP
+- [Argilla](https://www.argilla.io/)(current) - data annotation and monitoring for enterprise NLP
 - [Pandora Intelligence](https://www.pandoraintelligence.com/) - an independent intelligence company, specialized in security risks
     - [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
     - [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
@@ -23,7 +23,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
 
 # blogs 📖
-- [few-shot NER with Rubrix](https://www.rubrix.ml/blog/concise-concepts-rubrix) - using concise-concepts and Rubrix for training a NER model
+- [few-shot NER with Argilla]([https://www.rubrix.ml/blog/concise-concepts-rubrix](https://www.argilla.io/blog/concise-concepts-rubrix)) - using `concise-concepts` and Argilla for training a NER model
 
 # volunteering 🌍
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
