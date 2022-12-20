@@ -5,7 +5,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 
 # open source ⭐️
-## employees 👨🏽‍💻
+## employers 👨🏽‍💻
 - [Argilla](https://www.argilla.io/)(current) - data annotation and monitoring for enterprise NLP
 - [Pandora Intelligence](https://www.pandoraintelligence.com/) - an independent intelligence company, specialized in security risks
     - [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
