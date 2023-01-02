@@ -9,7 +9,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # open source ⭐️
 
-## maintainer
+## maintainer 🤓
 - [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
 - [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
 - [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
