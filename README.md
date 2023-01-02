@@ -3,15 +3,18 @@ From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc compute
 Life can be strange, so better enjoy it. \
 I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
+# employers 👨🏽‍💻
+- [Argilla](https://www.argilla.io/)(2022-current) - data annotation and monitoring for enterprise NLP
+- [Pandora Intelligence](https://www.pandoraintelligence.com/)(2020-2022) - an independent intelligence company, specialized in security risks
 
 # open source ⭐️
-## employers 👨🏽‍💻
-- [Argilla](https://www.argilla.io/)(current) - data annotation and monitoring for enterprise NLP
-- [Pandora Intelligence](https://www.pandoraintelligence.com/) - an independent intelligence company, specialized in security risks
-    - [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
-    - [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
-    - [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
-    - [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
+
+## maintainer
+- [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
+- [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
+- [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
+- [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
+- 
 ## contributions 🫱🏾‍🫲🏼 
 - [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe 
     - [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight) - added a batch processing functionality
