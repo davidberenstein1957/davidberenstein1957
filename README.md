@@ -22,7 +22,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
     - [spacy-opentapioca](https://github.com/UB-Mannheim/spacyopentapioca) - added a batch processing functionality
 - [streamlit-url-fragment](https://github.com/ktosiek/streamlit-url-fragment) - resolved Python versioning issues
 - [allennlp-models](https://github.com/allenai/allennlp-models) - added a batch processing functionality
-- [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues
+- [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues added `pypi`support
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
 
 # blogs 📖
