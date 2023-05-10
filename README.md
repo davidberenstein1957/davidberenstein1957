@@ -14,6 +14,8 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
 - [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
 - [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
+- [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data. 
+
 
 ## contributions 🫱🏾‍🫲🏼 
 - [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe 
