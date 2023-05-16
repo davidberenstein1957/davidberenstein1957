@@ -27,8 +27,9 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues added `pypi`support
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
 
-# blogs 📖
+# presentations 📖
 - [few-shot NER with Argilla]([https://www.rubrix.ml/blog/concise-concepts-rubrix](https://www.argilla.io/blog/concise-concepts-rubrix)) - using `concise-concepts` and Argilla for training a NER model
+- NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
 
 # volunteering 🌍
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
