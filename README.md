@@ -4,7 +4,6 @@ Life can be strange, so better enjoy it. \
 I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
 # content 📖
-- My personal [Blog Page](https://davidberenstein1957.github.io/)
 - NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
 - Anyscal Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project](https://youtu.be/tdGvtMv8IiE)
 
