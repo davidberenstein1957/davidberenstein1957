@@ -3,6 +3,11 @@ From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc compute
 Life can be strange, so better enjoy it. \
 I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
+# content 📖
+- [Blog Page](https://davidberenstein1957.github.io/)
+- NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
+- Anyscal Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project]([https://www.youtube.com/watch?v=tdGvtMv8IiE&pp=ygUicmF5IHN1bW1pdCBldXJvcGUgZGF2aWQgYmVyZW5zdGVpbg%3D%3D](https://youtu.be/tdGvtMv8IiE)
+
 # employers 👨🏽‍💻
 - [Argilla](https://www.argilla.io/)(2022-current) - data annotation and monitoring for enterprise NLP
 - [Pandora Intelligence](https://www.pandoraintelligence.com/)(2020-2022) - an independent intelligence company, specialized in security risks
@@ -26,10 +31,6 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [allennlp-models](https://github.com/allenai/allennlp-models) - added a batch processing functionality
 - [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues added `pypi`support
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
-
-# presentations 📖
-- [few-shot NER with Argilla]([https://www.rubrix.ml/blog/concise-concepts-rubrix](https://www.argilla.io/blog/concise-concepts-rubrix)) - using `concise-concepts` and Argilla for training a NER model
-- NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
 
 # volunteering 🌍
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
