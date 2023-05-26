@@ -6,7 +6,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 # content 📖
 - [Blog Page](https://davidberenstein1957.github.io/)
 - NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
-- Anyscal Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project]([https://www.youtube.com/watch?v=tdGvtMv8IiE&pp=ygUicmF5IHN1bW1pdCBldXJvcGUgZGF2aWQgYmVyZW5zdGVpbg%3D%3D](https://youtu.be/tdGvtMv8IiE)
+- Anyscal Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project](https://youtu.be/tdGvtMv8IiE)
 
 # employers 👨🏽‍💻
 - [Argilla](https://www.argilla.io/)(2022-current) - data annotation and monitoring for enterprise NLP
