@@ -14,13 +14,15 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 # open source ⭐️
 
 ## maintainer 🤓
-- [concise-concepts](https://github.com/Pandora-Intelligence/concise-concepts) - a word similarity approach to few-shot NER
-- [fast-sentence-transformers](https://github.com/Pandora-Intelligence/fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
-- [classy-classification](https://github.com/Pandora-Intelligence/classy-classification) - a quick and dirty few-shot text classification solution
-- [crosslingual-coreference](https://github.com/Pandora-Intelligence/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
+- [concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - a word similarity approach to few-shot NER
+- [fast-sentence-transformers](https://github.com/davidberenstein1957fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
+- [classy-classification](https://github.com/davidberenstein1957/classy-classification) - a quick and dirty few-shot text classification solution
+- [crosslingual-coreference](https://github.com/davidberenstein1957/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
+- [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
 
 
+https://github.com/davidberenstein1957/spacy-setfit
 ## contributions 🫱🏾‍🫲🏼 
 - [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe 
     - [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight) - added a batch processing functionality
