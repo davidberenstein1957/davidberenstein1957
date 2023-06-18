@@ -21,8 +21,6 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
 - [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
 
-
-https://github.com/davidberenstein1957/spacy-setfit
 ## contributions 🫱🏾‍🫲🏼 
 - [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe 
     - [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight) - added a batch processing functionality
