@@ -22,7 +22,8 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
 
 ## contributions 🫱🏾‍🫲🏼 
-- [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe 
+- [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe
+    - [spanmarker](https://github.com/tomaarsen/SpanMarkerNER/pull/16) - added `.pipe()` method to spaCy integration
     - [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight) - added a batch processing functionality
     - [spacy-fishing](https://github.com/Lucaterre/spacyfishing) - added a batch processing functionality + bug fixes
     - [spacy-opentapioca](https://github.com/UB-Mannheim/spacyopentapioca) - added a batch processing functionality
@@ -30,7 +31,6 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [allennlp-models](https://github.com/allenai/allennlp-models) - added a batch processing functionality
 - [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues and added `PyPI` support
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
-- [spanmarker](https://github.com/tomaarsen/SpanMarkerNER/pull/16) - added `.pipe()` method to spaCy integration
 - [trl](https://github.com/huggingface/trl/pull/665) - updated RLHF documentation for `PPOTrainer`
 
 
