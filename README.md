@@ -15,9 +15,9 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 ## maintainer 🤓
 - [concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - a word similarity approach to few-shot NER
-- [fast-sentence-transformers](https://github.com/davidberenstein1957fast-sentence-transformers) - wrapper for ONNX speed ehanched sentence-transformers
+- [fast-sentence-transformers](https://github.com/davidberenstein1957fast-sentence-transformers) - wrapper for ONNX speed enhanced sentence-transformers
 - [classy-classification](https://github.com/davidberenstein1957/classy-classification) - a quick and dirty few-shot text classification solution
-- [crosslingual-coreference](https://github.com/davidberenstein1957/crosslingual-coreference) - a multi-lingual coref resolver using cross-lingual training
+- [crosslingual-coreference](https://github.com/davidberenstein1957/crosslingual-coreference) - a multi-lingual CoRef resolver using cross-lingual training
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
 - [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
 
@@ -28,8 +28,11 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
     - [spacy-opentapioca](https://github.com/UB-Mannheim/spacyopentapioca) - added a batch processing functionality
 - [streamlit-url-fragment](https://github.com/ktosiek/streamlit-url-fragment) - resolved Python versioning issues
 - [allennlp-models](https://github.com/allenai/allennlp-models) - added a batch processing functionality
-- [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues added `pypi`support
+- [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues and added `PyPI` support
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
+- [spanmarker](https://github.com/tomaarsen/SpanMarkerNER/pull/16) - added `.pipe()` method to spaCy integration
+- [trl](https://github.com/huggingface/trl/pull/665) - updated RLHF documentation for `PPOTrainer`
+
 
 # volunteering 🌍
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
