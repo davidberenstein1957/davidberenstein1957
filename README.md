@@ -36,7 +36,11 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # volunteering 🌍
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
-- [510 red-cross](https://www.510.global/) - occasional projects to improve humanitarian aid with data 
+- [510 red-cross](https://www.510.global/) - occasional projects to improve humanitarian aid with data
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.m.berenstein@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidberenstein)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidbstein1957)
 <!--
 **davidberenstein1957/davidberenstein1957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,4 +56,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![@davidberenstein1957's Holopin board](https://holopin.io/api/user/board?user=davidberenstein1957)](https://holopin.io/@davidberenstein1957)
