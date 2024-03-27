@@ -6,7 +6,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 # Conference slides 📖
 - 🧼 From GPU-poor to data-rich - [data quality practices for LLM fine-tuning](https://www.canva.com/design/DAF_T8UxmkE/09C6mwzVCYWIiy8jT1sQVw/edit?utm_content=DAF_T8UxmkE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
-- Anyscal Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project](https://youtu.be/tdGvtMv8IiE)
+- Anyscale Ray Europe Meetup - [Smart shortcuts for Bootstrapping a Text Classification project](https://youtu.be/tdGvtMv8IiE)
 
 # employers 👨🏽‍💻
 - [Argilla](https://www.argilla.io/)(2022-current) - data annotation and monitoring for enterprise NLP
