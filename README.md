@@ -4,6 +4,7 @@ Life can be strange, so better enjoy it. \
 I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
 # Conference slides 📖
+- [Mastering LLMs: Creating, curating, and cleaning data for LLMs](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing)
 - 🧼 From GPU-poor to data-rich - [data quality practices for LLM fine-tuning](https://www.canva.com/design/DAGF-GwfVmI/ryeuPyHCz3WZl8P8MIEi_A/edit?utm_content=DAGF-GwfVmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Deeplearning.ai LLM workshop - [get started with Argilla for human- and distilabel for AI feedback](https://youtube.com/live/JNdRV7CDXKM?feature=shared)
 - NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
