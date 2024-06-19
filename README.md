@@ -25,6 +25,9 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
 
 ## contributions 🫱🏾‍🫲🏼 
+- [Haystack]() - small feature and CI/CD updates
+    - [InMemoryDatabase](https://github.com/deepset-ai/haystack/pull/7888) - Serialization + to and from disk methods 
+    - [GitHub Actions](https://github.com/deepset-ai/haystack/pull/7890) - caching for pip environment
 - [spaCy](https://github.com/explosion/spaCy) - several additions to the spacy-universe
     - [spanmarker](https://github.com/tomaarsen/SpanMarkerNER/pull/16) - added `.pipe()` method to spaCy integration
     - [spacy-dbpedia-spotlight](https://github.com/MartinoMensio/spacy-dbpedia-spotlight) - added a batch processing functionality
