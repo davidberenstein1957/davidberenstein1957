@@ -14,9 +14,9 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # employers 👨🏽‍💻
 
-- [Hugging Face 🤗](https://www.huggingface.co/)(2024-current) - The AI community building the future
-- [Argilla](https://www.argilla.io/)(2022-current) - data annotation and monitoring for enterprise NLP
-- [Pandora Intelligence](https://www.pandoraintelligence.com/)(2020-2022) - an independent intelligence company, specialized in security risks
+- [Hugging Face 🤗](https://www.huggingface.co/) (2024-current) - The AI community building the future
+- [Argilla](https://www.argilla.io/) (2022-current) - data annotation and monitoring for enterprise NLP
+- [Pandora Intelligence](https://www.pandoraintelligence.com/) (2020-2022) - an independent intelligence company, specialized in security risks
 
 # open source ⭐️
 
