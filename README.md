@@ -24,7 +24,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 - [dataset-viber](https://github.com/davidberenstein1957/data-viber) - Data viber is your chill repo for data collection and vibe checks.
 - [concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - a word similarity approach to few-shot NER
-- [🚧 ARCHIVED 🚧][fast-sentence-transformers](https://github.com/davidberenstein1957fast-sentence-transformers) - wrapper for ONNX speed enhanced sentence-transformers
+- [fast-sentence-transformers](https://github.com/davidberenstein1957fast-sentence-transformers) - simply, faster, sentence-transformers
 - [classy-classification](https://github.com/davidberenstein1957/classy-classification) - a quick and dirty few-shot text classification solution
 - [crosslingual-coreference](https://github.com/davidberenstein1957/crosslingual-coreference) - a multi-lingual CoRef resolver using cross-lingual training
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
