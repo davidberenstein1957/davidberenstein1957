@@ -5,6 +5,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # Conference slides 📖
 
+- Practical AI Podcast - [Towards high-quality (maybe synthetic) datasets](https://practicalai.fm/290)
 - Code Together Podcast | Intel Software - [Scaling LLM Datasets with Less Effort Using Argilla](https://www.youtube.com/watch?v=9kOSjMFxCCc)
 - Mastering LLMs - [Creating, curating, and cleaning data for LLMs](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing)
 - 🧼 From GPU-poor to data-rich - [data quality practices for LLM fine-tuning](https://www.canva.com/design/DAGF-GwfVmI/ryeuPyHCz3WZl8P8MIEi_A/edit?utm_content=DAGF-GwfVmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
