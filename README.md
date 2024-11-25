@@ -5,7 +5,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # Conference slides 📖
 
-- No data? No problem - [synthetic data to the rescue](https://www.canva.com/design/DAGViIBmdic/yUJ02U4pP9qTLvChf--gVg/edit?utm_content=DAGViIBmdic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- No data? No problem! - [synthetic data to the rescue](https://www.canva.com/design/DAGViIBmdic/yUJ02U4pP9qTLvChf--gVg/edit?utm_content=DAGViIBmdic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practical AI Podcast - [Towards high-quality (maybe synthetic) datasets](https://practicalai.fm/290)
 - Code Together Podcast | Intel Software - [Scaling LLM Datasets with Less Effort Using Argilla](https://www.youtube.com/watch?v=9kOSjMFxCCc)
 - Mastering LLMs - [Creating, curating, and cleaning data for LLMs](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing)
