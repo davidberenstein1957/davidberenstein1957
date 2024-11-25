@@ -23,7 +23,8 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 ## maintainer 🤓
 
-- [dataset-viber](https://github.com/davidberenstein1957/data-viber) - Data viber is your chill repo for data collection and vibe checks.
+- [observers](https://github.com/cfahlgren1/observers) - A Lightweight Library for AI Observability
+- [dataset-viber](https://github.com/davidberenstein1957/data-viber) - Data viber is your chill repo for data collection and vibe checks
 - [concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - a word similarity approach to few-shot NER
 - [fast-sentence-transformers](https://github.com/davidberenstein1957fast-sentence-transformers) - simply, faster, sentence-transformers
 - [classy-classification](https://github.com/davidberenstein1957/classy-classification) - a quick and dirty few-shot text classification solution
