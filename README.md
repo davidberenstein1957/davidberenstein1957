@@ -52,7 +52,10 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [mutate](https://github.com/infinitylogesh/mutate) - resolved Python versioning issues and added `PyPI` support
 - [rebel](https://github.com/Babelscape/rebel) - added a batch processing functionality
 - [trl](https://github.com/huggingface/trl/pull/665) - updated RLHF documentation for `PPOTrainer`
-
+- [vicinity](https://github.com/MinishLab/vicinity)
+    - [added vector search on serializable item types](https://github.com/MinishLab/vicinity/pull/56)
+    - [improved docs](https://github.com/MinishLab/vicinity/pull/39)
+- [minhash](https://github.com/MinishLab/semhash) - added deduplication based on entropy score
 
 # volunteering 🌍
 
