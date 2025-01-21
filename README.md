@@ -18,15 +18,15 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 - [useful code snippets](https://gist.github.com/davidberenstein1957)
 
-# employers 👨🏽‍💻
+# Employers 👨🏽‍💻
 
 - [Hugging Face 🤗](https://www.huggingface.co/) (2024-current) - The AI community building the future
 - [Argilla](https://www.argilla.io/) (2022-current) - data annotation and monitoring for enterprise NLP
 - [Pandora Intelligence](https://www.pandoraintelligence.com/) (2020-2022) - an independent intelligence company, specialized in security risks
 
-# open source ⭐️
+# Open source ⭐️
 
-## maintainer 🤓
+## Maintainer 🤓
 
 - [observers](https://github.com/cfahlgren1/observers) - A Lightweight Library for AI Observability
 - [dataset-viber](https://github.com/davidberenstein1957/data-viber) - Data viber is your chill repo for data collection and vibe checks
@@ -37,7 +37,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
 - [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
 
-## contributions 🫱🏾‍🫲🏼 
+## Contributions 🫱🏾‍🫲🏼 
 
 - [Haystack](https://github.com/deepset-ai/haystack) - small feature and CI/CD updates
     - [InMemoryDatabase](https://github.com/deepset-ai/haystack/pull/7888) - Serialization + to and from disk methods 
@@ -57,7 +57,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
     - [improved docs](https://github.com/MinishLab/vicinity/pull/39)
 - [minhash](https://github.com/MinishLab/semhash) - added deduplication based on entropy score
 
-# volunteering 🌍
+# Volunteering 🌍
 
 - [Bonfari](https://bonfari.nl/) - small to medium sustainable scale projects in Gambia 🇬🇲
 - [510 red-cross](https://www.510.global/) - occasional projects to improve humanitarian aid with data
