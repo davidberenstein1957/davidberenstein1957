@@ -3,7 +3,7 @@ From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc compute
 Life can be strange, so better enjoy it. \
 I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
 
-# Conference slides 📖
+# Conferences/Presentations 📖
 
 - SmolAgents - [<s>Bells and Whistles</s> Agents and Tools](https://www.canva.com/design/DAGePOjlQM8/45bq8R-7GrTPL6TfWNJbsA/edit?utm_content=DAGePOjlQM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [video](https://www.youtube.com/watch?v=PLCZVUQ1p3c)
 - No data? No problem! - [synthetic data to the rescue](https://www.canva.com/design/DAGViIBmdic/yUJ02U4pP9qTLvChf--gVg/edit?utm_content=DAGViIBmdic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
