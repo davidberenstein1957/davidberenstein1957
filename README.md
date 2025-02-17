@@ -9,7 +9,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - No data? No problem! - [synthetic data to the rescue](https://www.canva.com/design/DAGViIBmdic/yUJ02U4pP9qTLvChf--gVg/edit?utm_content=DAGViIBmdic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practical AI Podcast - [Towards high-quality (maybe synthetic) datasets](https://practicalai.fm/290)
 - Code Together Podcast | Intel Software - [Scaling LLM Datasets with Less Effort Using Argilla](https://www.youtube.com/watch?v=9kOSjMFxCCc)
-- Mastering LLMs - [Creating, curating, and cleaning data for LLMs](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing)
+- Mastering LLMs - [Creating, curating, and cleaning data for LLMs](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing) [video](https://www.youtube.com/watch?v=HEGaei7k0zE)
 - 🧼 From GPU-poor to data-rich - [data quality practices for LLM fine-tuning](https://www.canva.com/design/DAGF-GwfVmI/ryeuPyHCz3WZl8P8MIEi_A/edit?utm_content=DAGF-GwfVmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Deeplearning.ai LLM workshop - [get started with Argilla for human- and distilabel for AI feedback](https://youtube.com/live/JNdRV7CDXKM?feature=shared)
 - NLP Healthcare Summit 2023 - [Smart Shortcuts for Bootstrapping a Healthcare NER Project](https://youtu.be/t68kC5Dk4LA)
