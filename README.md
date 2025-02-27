@@ -15,9 +15,10 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 - NLP Healthcare Summit 2023 - Smart Shortcuts for Bootstrapping a Healthcare NER Project - [video](https://youtu.be/t68kC5Dk4LA)
 - Anyscale Ray Europe Meetup - Smart shortcuts for Bootstrapping a Text Classification project - [video](https://youtu.be/tdGvtMv8IiE)
 
-# GitHub gists
+# AI Code Content
 
 - [useful code snippets](https://gist.github.com/davidberenstein1957)
+- [short videos](https://www.youtube.com/@ai-code-content)
 
 # Employers 👨🏽‍💻
 
