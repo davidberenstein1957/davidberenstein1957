@@ -5,6 +5,7 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # Conferences/Presentations 📖
 
+- Synthetic Data - Weaviate Podcast #118! - [podcast](https://creators.spotify.com/pod/show/weaviate/episodes/Synthetic-Data-with-David-Berenstein-and-Ben-Burtenshaw---Weaviate-Podcast-118-e30l10v/a-abro6us)
 - SmolAgents - From <s>Bells and Whistles</s> to Agents and Tools - [slides](https://www.canva.com/design/DAGePOjlQM8/45bq8R-7GrTPL6TfWNJbsA/edit?utm_content=DAGePOjlQM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [video](https://www.youtube.com/watch?v=PLCZVUQ1p3c)
 - No data? No problem! - synthetic data to the rescue - [slides](https://www.canva.com/design/DAGViIBmdic/yUJ02U4pP9qTLvChf--gVg/edit?utm_content=DAGViIBmdic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practical AI Podcast - Towards high-quality (maybe synthetic) datasets - [podcast](https://practicalai.fm/290)
