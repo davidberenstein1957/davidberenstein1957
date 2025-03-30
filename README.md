@@ -23,7 +23,11 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 
 # Employers 👨🏽‍💻
 
-- [Hugging Face 🤗](https://www.huggingface.co/) (2024-current) - The AI community building the future
+- [Giskard 🐢](https://www.giskard.ai/) (2025-present) - Secure your
+LLM Agents
+- [Pruna 🍑](https://www.pruna.ai/) (2025-present) - Make your 
+AI models cheaper/faster/smaller/greener
+- [Hugging Face 🤗](https://www.huggingface.co/) (2024-2025) - The AI community building the future
 - [Argilla](https://www.argilla.io/) (2022-2024) - data annotation and monitoring for enterprise NLP
 - [Pandora Intelligence](https://www.pandoraintelligence.com/) (2020-2022) - an independent intelligence company, specialized in security risks
 
