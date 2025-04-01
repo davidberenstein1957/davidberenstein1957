@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 From failing to study medicine ➡️ BSc industrial engineer ➡️ MSc computer scientist. \
 Life can be strange, so better enjoy it. \
 I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committing.
@@ -62,7 +63,8 @@ AI models cheaper/faster/smaller/greener
 - [vicinity](https://github.com/MinishLab/vicinity)
     - [added vector search on serializable item types](https://github.com/MinishLab/vicinity/pull/56)
     - [improved docs](https://github.com/MinishLab/vicinity/pull/39)
-- [minhash](https://github.com/MinishLab/semhash) - added deduplication based on entropy score
+- [semhash](https://github.com/MinishLab/semhash)
+    - [added deduplication based on entropy score](https://github.com/MinishLab/semhash/pull/25)
 
 # Volunteering 🌍
 
