@@ -65,6 +65,7 @@ AI models cheaper/faster/smaller/greener
     - [improved docs](https://github.com/MinishLab/vicinity/pull/39)
 - [semhash](https://github.com/MinishLab/semhash)
     - [added deduplication based on entropy score](https://github.com/MinishLab/semhash/pull/25)
+    - [refactor API design data model](https://github.com/MinishLab/semhash/pull/40/files)
 
 # Volunteering 🌍
 
