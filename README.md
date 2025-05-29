@@ -7,12 +7,12 @@ I´m sure I do by: 👨🏽‍🍳 Cooking, 👨🏽‍💻 Coding, 🏆 Committ
 # Conferences/Presentations 📖
 
 - Synthetic Data - Weaviate Podcast #118! - [podcast](https://creators.spotify.com/pod/show/weaviate/episodes/Synthetic-Data-with-David-Berenstein-and-Ben-Burtenshaw---Weaviate-Podcast-118-e30l10v/a-abro6us)
-- SmolAgents - From <s>Bells and Whistles</s> to Agents and Tools - [slides](https://www.canva.com/design/DAGePOjlQM8/45bq8R-7GrTPL6TfWNJbsA/edit?utm_content=DAGePOjlQM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [video](https://www.youtube.com/watch?v=PLCZVUQ1p3c)
+- SmolAgents - From <s>Bells and Whistles</s> to Agents and Tools - [slides](https://www.canva.com/design/DAGfcZci_Gw/b3sYEGRVPQ8fwH59d1a98A/edit?utm_content=DAGfcZci_Gw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) [video](https://www.youtube.com/watch?v=PLCZVUQ1p3c)
 - No data? No problem! - synthetic data to the rescue - [slides](https://www.canva.com/design/DAGViIBmdic/yUJ02U4pP9qTLvChf--gVg/edit?utm_content=DAGViIBmdic&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Practical AI Podcast - Towards high-quality (maybe synthetic) datasets - [podcast](https://practicalai.fm/290)
 - Code Together Podcast Intel Software - Scaling LLM Datasets with Less Effort Using Argilla - [video](https://www.youtube.com/watch?v=9kOSjMFxCCc)
 - Mastering LLMs - Creating, curating, and cleaning data for LLMs - [slides](https://docs.google.com/presentation/d/12n-_ivhTQQpeTKAIvmuxnUxkJ19zvtJzKBwvZn-t8rQ/edit?usp=sharing) [video](https://www.youtube.com/watch?v=HEGaei7k0zE)
-- 🧼 From GPU-poor to data-rich - data quality practices for LLM fine-tuning - [slides](https://www.canva.com/design/DAGF-GwfVmI/ryeuPyHCz3WZl8P8MIEi_A/edit?utm_content=DAGF-GwfVmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🧼 From GPU-poor to data-rich - data quality practices for LLM fine-tuning - [slides](https://www.canva.com/design/DAGfcTAbpcs/rmpdBmJZpZZ21TYn_8ZdFw/edit?utm_content=DAGfcTAbpcs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Deeplearning.ai LLM workshop - get started with Argilla for human- and distilabel for AI feedback - [video](https://youtube.com/live/JNdRV7CDXKM?feature=shared)
 - NLP Healthcare Summit 2023 - Smart Shortcuts for Bootstrapping a Healthcare NER Project - [video](https://youtu.be/t68kC5Dk4LA)
 - Anyscale Ray Europe Meetup - Smart shortcuts for Bootstrapping a Text Classification project - [video](https://youtu.be/tdGvtMv8IiE)
