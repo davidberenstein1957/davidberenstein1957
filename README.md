@@ -30,12 +30,13 @@ LLM Agents.
 AI models cheaper/faster/smaller/greener!
 - [Hugging Face 🤗](https://www.huggingface.co/) (2024-2025) - The AI community building the future.
 - [Argilla](https://www.argilla.io/) (2022-2025) - data annotation and monitoring for enterprise NLP.
-- [Pandora Intelligence](https://www.pandoraintelligence.com/) (2020-2022) - an independent intelligence company, specialized in security risks.
+- [Pandora Intelligence](https://www.pandoraintelligence.com/) (2020-2022) - an independent intelligence company, specialised in security risks.
 
 # Open source ⭐️
 
 ## Maintainer 🤓
 
+- [awesome-ai-guardrails](https://github.com/enguard-ai/awesome-ai-guardails) - A collection of awesome AI guardrail resources
 - [observers](https://github.com/cfahlgren1/observers) - A Lightweight Library for AI Observability
 - [dataset-viber](https://github.com/davidberenstein1957/data-viber) - Data viber is your chill repo for data collection and vibe checks
 - [concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - a word similarity approach to few-shot NER
@@ -43,7 +44,7 @@ AI models cheaper/faster/smaller/greener!
 - [classy-classification](https://github.com/davidberenstein1957/classy-classification) - a quick and dirty few-shot text classification solution
 - [crosslingual-coreference](https://github.com/davidberenstein1957/crosslingual-coreference) - a multi-lingual CoRef resolver using cross-lingual training
 - [adept-augmentations](https://github.com/argilla-io/adept-augmentations) - a Python library aimed at dissecting and augmenting NER training data
-- [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed to facilitate easy SetFit usage in spaCy
+- [spacy-setfit](https://github.com/davidberenstein1957/spacy-setfit) - a Python library aimed at facilitating easy SetFit usage in spaCy
 
 ## Contributions 🫱🏾‍🫲🏼 
 
