@@ -36,6 +36,7 @@ AI models cheaper/faster/smaller/greener!
 
 ## Maintainer 🤓
 
+- [dspydantic](https://github.com/davidberenstein1957/dspydantic) - Optimize information extraction prompts and Pydantic field descriptions using DSPy.
 - [awesome-ai-guardrails](https://github.com/enguard-ai/awesome-ai-guardails) - A collection of awesome AI guardrail resources
 - [observers](https://github.com/cfahlgren1/observers) - A Lightweight Library for AI Observability
 - [dataset-viber](https://github.com/davidberenstein1957/data-viber) - Data viber is your chill repo for data collection and vibe checks
